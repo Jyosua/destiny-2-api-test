@@ -1,1 +1,4 @@
 /node_modules
+/key.pem
+/client.csr
+/cert.pem
