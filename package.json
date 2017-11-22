@@ -1,0 +1,25 @@
+{
+  "name": "destiny-2-api-test",
+  "version": "0.0.1",
+  "description": "Test application to interface with the destiny 2 API",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Jyosua@github.com/Jyosua/destiny-2-api-test.git"
+  },
+  "author": "Joshua Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jyosua/destiny-2-api-test/issues"
+  },
+  "homepage": "https://github.com/Jyosua/destiny-2-api-test#readme"
+}
